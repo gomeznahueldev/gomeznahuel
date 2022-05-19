@@ -3,7 +3,6 @@ console.log("Hello world!");
 
 const me = {
   name: "Nahuel Gómez",
-  age: 31,
   country: "Argentina",
   openToWork: true,
   occupation: "Frontend Developer",
